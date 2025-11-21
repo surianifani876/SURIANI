@@ -1,0 +1,11 @@
+.vscode/
+node_modules/
+**/node_modules/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+~$*.xlsx
+Thumbs.db
+AppData/
